@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning programming
 - 🌱 I’m currently learning JavaScript, HTML5, CSS3
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 marisakirisame955@gmail.com
 
 <!---
 MarisaCodes/MarisaCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
